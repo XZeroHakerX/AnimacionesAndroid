@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Animaciones" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowSplashScreenBackground">@color/amarillo</item>
+        <item name="android:windowSplashScreenAnimatedIcon">
+            @drawable/animacion_delfin_splash
+        </item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/brandingv02a</item>
+        
+
+
+    </style>
+</resources>
